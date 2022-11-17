@@ -1,5 +1,7 @@
 # Microphone Fingerprint dataset
 Details for a Microphone Fingerprint dataset used for smartphone fingerprinting based on their microphone characteristics. 
+For a similar dataset containing loudspeaker data for device fingerprinting please see: 
+https://github.com/AdrianaBerdich/Sweep-to-Unlock-Datasets 
 
 # Fingerprinting Smartphones Based on Microphone Characteristics from Environment Affected Recordings
 
