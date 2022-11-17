@@ -113,6 +113,7 @@ author={Berdich, Adriana and Groza, Bogdan and Levy, Efrat and Shabtai, Asaf and
 journal={IEEE Access}, 
 year={2022}, 
 publisher={IEEE} 
+}
 ```
 
  # 4. Contact
