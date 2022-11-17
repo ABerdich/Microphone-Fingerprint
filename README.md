@@ -34,8 +34,8 @@ Dataset content The dataset is structured as described below. We provide the cle
 12 |	LG Optimus P700	| LG|	1	|1000|	1000
  &nbsp;|	Total	| 	|&nbsp;|32|	 19200|
  
- ![image](S6 (1).png)
- ![image](S6_mics.png)
+ ![image](s6.png)
+ ![image](s6_mics.jpg)
 
 ## Folder structure ##
 RAW RECORDINGS  (folder, 131 files) \
