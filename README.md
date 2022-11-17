@@ -10,7 +10,7 @@ We analyze several classification techniques based on traditional machine learni
 We explored smartphone microphone fingerprinting based on microphone data by using the power spectrum of the recorded signal. 
 We record two major use cases of fingerprinting based on synthetically reproduced environmental sound and finally live recordings. In all the scenarios, noise was added to make identification more challenging.
         
-![image](https://user-images.githubusercontent.com/22617786/156363415-3412c8af-26f6-4a32-9590-406661994996.png)
+![image](method_v2.5_+horn_v7.png)
 
 # 2. Dataset
 Dataset content The dataset is structured as described below. We provide the clean recordings as audio data (PCM or WAV) as well as the power spectrum (FFT as .txt). For recordings affected by noise, we provide only the FFT results (as .txt).
@@ -34,7 +34,8 @@ Dataset content The dataset is structured as described below. We provide the cle
 12 |	LG Optimus P700	| LG|	1	|1000|	1000
  &nbsp;|	Total	| 	|&nbsp;|32|	 19200|
  
- ![image](https://user-images.githubusercontent.com/22617786/156363539-dff69c4d-02cb-4398-be5a-cf29a6928d6d.png)
+ ![image](S6 (1).png)
+ ![image](S6_mics.png)
 
 ## Folder structure ##
 RAW RECORDINGS  (folder, 131 files) \
