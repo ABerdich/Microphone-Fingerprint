@@ -106,15 +106,14 @@ Feel free to use our dataset for research purposes by giving credit to our paper
 A. Berdich, B. Groza, E. Levy, A. Shabtai, Y. Elovici and R. Mayrhofer "Fingerprinting Smartphones Based on Microphone Characteristics from Environment Affected Recordings ", IEEE Access.
 
 
-...
-
+```
 @article{BerdichGLSEM
 title={Fingerprinting Smartphones Based on Microphone Characteristics from Environment Affected Recordings }, 
 author={Berdich, Adriana and Groza, Bogdan and Levy, Efrat and Shabtai, Asaf and Elovici, Yuval and Mayrhofer, Rene},
 journal={IEEE Access}, 
 year={2022}, 
 publisher={IEEE} 
-...
+```
 
  # 4. Contact
 For any questions about our work and dataset, don't hesitate to contact us (adriana.berdich at aut.upt.ro or bogdan.groza at aut.upt.ro).
