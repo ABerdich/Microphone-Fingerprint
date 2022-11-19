@@ -58,7 +58,7 @@ RAW RECORDINGS  (folder, 131 files) \
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------ horn \
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------ 16 disctinct smartphones x 400 samples
 
-Dataset Download Link: RAW_RECORDINGS.zip(2.06GB)  
+Dataset Download Link: [RAW_RECORDINGS.7z](http://www.aut.upt.ro/~bgroza/projects/mic-fprint/RAW_RECORDINGS.7z)  (2.9GB)  
 
 FFT EXTRACTIONS (folder, 6300 files) \
 |------ Clean recordings  \
@@ -87,7 +87,7 @@ FFT EXTRACTIONS (folder, 6300 files) \
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------- car honk music (400 recordings with 16 distinct smartphones) \
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|------ 16 disctinct smartphones x 400 samples
 
-Dataset Download Link: 
+Dataset Download Link: [FFT_EXTRACTIONS.7z]( http://www.aut.upt.ro/~bgroza/projects/mic-fprint/FFT_EXTRACTIONS.7z) (479.2MB) 
 
 Note that the RAW files are very large and uncut, it is advisable that you use the FFT extractions.
 
